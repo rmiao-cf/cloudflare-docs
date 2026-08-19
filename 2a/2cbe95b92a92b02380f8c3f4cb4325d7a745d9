@@ -1,0 +1,25 @@
+src/content/docs/byoip/concepts/route-filtering-rpki.mdx
+  s_bc47feb7dd207e::t_7a735f8454776c 19-20
+src/content/docs/byoip/get-started.mdx
+  s_bc47feb7dd207e::t_e0922cfb3a994c 43-44,92,97-98,103-105,165-167,171
+src/content/docs/byoip/troubleshooting/index.mdx
+  s_bc47feb7dd207e::t_e224e476c2dc83 41
+src/content/docs/byoip/troubleshooting/prefix-validation.mdx
+  s_bc47feb7dd207e::t_5412d13b08875a 32-42,50-51,61-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2a2cbe95b92a92b02380f8c3f4cb4325d7a745d9",
+  "prompts": {},
+  "sessions": {
+    "s_bc47feb7dd207e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_070896a66ffeLZgTa8RFCwLXdA",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Richard Miao <rmiao@cloudflare.com>"
+    }
+  }
+}
